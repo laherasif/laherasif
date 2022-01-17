@@ -19,7 +19,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
   ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
   ![Jamstack](https://img.shields.io/badge/-Jamstack-333333?style=flat&logo=jamstack)
 - 🛢 &nbsp;
