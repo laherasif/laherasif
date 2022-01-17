@@ -24,9 +24,9 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next.js](https://qph.fs.quoracdn.net/main-qimg-744f96b18fb3ef81b05512d78b679e25)
-  ![Gatsby](https://elasticbeanstalk-ap-southeast-1-805366489044.s3.amazonaws.com/images/uploads/2019/03/30/gatsby_MCIAMWD.gif)
-  ![Jamstack](https://www.technologiesinindustry4.com/wp-content/uploads/2021/08/JAMstack.jpeg)
+  ![Next.js](https://img.shields.io/badge/-Next-333333?style=flat&logo=next)
+  ![Gatsby](https://img.shields.io/badge/-Gatsby-333333?style=flat&logo=gatsby)
+  ![Jamstack](https://img.shields.io/badge/-Jamstack-333333?style=flat&logo=jamstack)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
